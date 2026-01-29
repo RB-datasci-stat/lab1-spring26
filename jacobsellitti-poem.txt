@@ -2,7 +2,7 @@ Name: Jacob Sellitti
 Date: 1/29/26
 
 Poem:
-
 Data are useful
 Never forget it's plural
-Don't say data is
+Don't say "data is"
+
