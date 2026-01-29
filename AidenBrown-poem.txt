@@ -4,5 +4,5 @@ Date: 1/20/26
 Poem:
 Sorting through data
 Clean, visualize, learn, train
-Discover patterns
+Discover patterns.
 
