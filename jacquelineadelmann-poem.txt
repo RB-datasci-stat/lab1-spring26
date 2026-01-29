@@ -1,4 +1,9 @@
 Name: Jacqueline Adelmann
-Date:
+Date: 01/29/26
 
-Poem:
+Poem: 
+
+Python and R 
+are never too far 
+from my laptop 
+or a desktop
