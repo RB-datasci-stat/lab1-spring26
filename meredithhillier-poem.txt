@@ -1,4 +1,6 @@
 Name: Meredith Hillier
 Date: 01/29/2026
 
-Poem:
+Poem: Painting a picture,
+Visualizing data,
+R is very fun
