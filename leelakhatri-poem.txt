@@ -1,4 +1,9 @@
-Name: Meredith Hillier
+Name: Leela Khatri
 Date: 01/29/2026
 
 Poem:
+
+Data science has so many cool tools!
+From R, Stata, Excel, you name it -
+It helps us answer cool phenomena
+Across all sorts of sciences and genres! 
