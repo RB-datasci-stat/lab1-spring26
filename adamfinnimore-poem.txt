@@ -1,4 +1,7 @@
-Name:
-Date:
+Name: Adam Finnimore
+Date: 02/02/2026
 
-Poem:
+Poem: 
+R or Python
+Remember the golden rule 
+Don't forget to save
