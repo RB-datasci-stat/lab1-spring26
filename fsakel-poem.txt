@@ -1,0 +1,49 @@
+Name: Filip Sakellariou
+Date: 1/29/26
+
+Poem: [Adapted from Ithaka by C.P. Cavafy, translation sourced from https://lyricstranslate.com/en/ithaki-ithaki-ithaka.html-0]
+
+Once you set out for Python
+hope your debugging to be short,
+full of adventures, full of knowledge.
+
+Don't be afraid of the NaNs and the Nones,
+the angry type exceptions
+you'll never find them on your way
+if you keep your testing high,
+if rare excitement touches your spirit and your body.
+
+You won't meet the NaNs and the Nones,
+the wild type exceptions
+unless you bring them along inside your soul,
+unless your soul puts them in front of your screen.
+
+Hope your debugging to be short
+may there be many summer mornings
+when you'll enter with pleasure, with joy,
+the repos you've seen for the first time
+
+Stop in Python forum sites
+and get the good tips
+libraries and patterns, data structures and functions,
+and strong typing of every kind
+as many type hints as you can
+
+Go to many StackOverflow posts
+to study and learn from the educated ones
+keep Python always in your mind
+your arrival there is your destiny
+
+But don't rush the debugging at all
+it better lasts for many years,
+and then when you're old to stay on a conference,
+wealthy with all you've gained on the way
+without expecting Python to make you rich.
+
+Python gave you the beautiful exceptions.
+without her you wouldn't have set out
+there's nothing else to give you anymore
+
+And if you find her poor, Python hasn't fooled you.
+now that you became wise with so much experience
+you should have already understood what Pythons mean
