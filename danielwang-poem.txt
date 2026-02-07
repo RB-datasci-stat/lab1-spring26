@@ -1,2 +1,6 @@
-mv ~/danielwang-poem.txt /Users/danielwang/Desktop/fake-repo-replay/
-mv ~/danielwang-poem.txt /Users/danielwang/Desktop/fake-repo-replay//Users/danielwang/Desktop/m244 
+Name: Daniel Wang
+Date: 02/06/2026
+
+Poem: Data science fun
+mathematical models
+analytical 
